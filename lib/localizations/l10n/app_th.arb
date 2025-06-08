@@ -1,5 +1,5 @@
 {
-  "greetingMessage": "Hello",
+  "greetingMessage": "Hello Template",
   "@greetingMessage": {
     "description": "The conventional greeting"
   }
