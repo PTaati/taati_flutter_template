@@ -1,0 +1,6 @@
+{
+  "greetingMessage": "Hello",
+  "@greetingMessage": {
+    "description": "The conventional greeting"
+  }
+}
